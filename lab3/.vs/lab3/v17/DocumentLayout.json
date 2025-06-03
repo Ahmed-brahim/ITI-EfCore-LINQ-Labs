@@ -3,6 +3,26 @@
   "WorkspaceRootPath": "D:\\College\\skills\\Full Stack\\iti\\Linq \u0026 EF Core\\labs\\lab3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{3225D638-2913-4DDC-9311-12EBAA02016F}|BLL\\BLL.csproj|d:\\college\\skills\\full stack\\iti\\linq \u0026 ef core\\labs\\lab3\\bll\\entitymanagers\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3225D638-2913-4DDC-9311-12EBAA02016F}|BLL\\BLL.csproj|solutionrelative:bll\\entitymanagers\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3225D638-2913-4DDC-9311-12EBAA02016F}|BLL\\BLL.csproj|d:\\college\\skills\\full stack\\iti\\linq \u0026 ef core\\labs\\lab3\\bll\\entitylist\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3225D638-2913-4DDC-9311-12EBAA02016F}|BLL\\BLL.csproj|solutionrelative:bll\\entitylist\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3225D638-2913-4DDC-9311-12EBAA02016F}|BLL\\BLL.csproj|d:\\college\\skills\\full stack\\iti\\linq \u0026 ef core\\labs\\lab3\\bll\\entitylist\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3225D638-2913-4DDC-9311-12EBAA02016F}|BLL\\BLL.csproj|solutionrelative:bll\\entitylist\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3225D638-2913-4DDC-9311-12EBAA02016F}|BLL\\BLL.csproj|d:\\college\\skills\\full stack\\iti\\linq \u0026 ef core\\labs\\lab3\\bll\\entity\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3225D638-2913-4DDC-9311-12EBAA02016F}|BLL\\BLL.csproj|solutionrelative:bll\\entity\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D518ACAF-56AC-4F93-8993-21818CB3AB64}|DAL\\DAL.csproj|d:\\college\\skills\\full stack\\iti\\linq \u0026 ef core\\labs\\lab3\\dal\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D518ACAF-56AC-4F93-8993-21818CB3AB64}|DAL\\DAL.csproj|solutionrelative:dal\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{24092903-40E9-479A-86F2-E76D4274981B}|lab3.1\\lab3.1.csproj|d:\\college\\skills\\full stack\\iti\\linq \u0026 ef core\\labs\\lab3\\lab3.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{24092903-40E9-479A-86F2-E76D4274981B}|lab3.1\\lab3.1.csproj|solutionrelative:lab3.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,32 +31,12 @@
       "RelativeMoniker": "D:0:0:{24092903-40E9-479A-86F2-E76D4274981B}|lab3.1\\lab3.1.csproj|solutionrelative:lab3.1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3225D638-2913-4DDC-9311-12EBAA02016F}|BLL\\BLL.csproj|d:\\college\\skills\\full stack\\iti\\linq \u0026 ef core\\labs\\lab3\\bll\\entitylist\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3225D638-2913-4DDC-9311-12EBAA02016F}|BLL\\BLL.csproj|solutionrelative:bll\\entitylist\\students.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3225D638-2913-4DDC-9311-12EBAA02016F}|BLL\\BLL.csproj|d:\\college\\skills\\full stack\\iti\\linq \u0026 ef core\\labs\\lab3\\bll\\entitymanagers\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3225D638-2913-4DDC-9311-12EBAA02016F}|BLL\\BLL.csproj|solutionrelative:bll\\entitymanagers\\studentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D518ACAF-56AC-4F93-8993-21818CB3AB64}|DAL\\DAL.csproj|d:\\college\\skills\\full stack\\iti\\linq \u0026 ef core\\labs\\lab3\\dal\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D518ACAF-56AC-4F93-8993-21818CB3AB64}|DAL\\DAL.csproj|solutionrelative:dal\\dbmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3225D638-2913-4DDC-9311-12EBAA02016F}|BLL\\BLL.csproj|d:\\college\\skills\\full stack\\iti\\linq \u0026 ef core\\labs\\lab3\\bll\\entitymanagers\\departmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3225D638-2913-4DDC-9311-12EBAA02016F}|BLL\\BLL.csproj|solutionrelative:bll\\entitymanagers\\departmentmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3225D638-2913-4DDC-9311-12EBAA02016F}|BLL\\BLL.csproj|d:\\college\\skills\\full stack\\iti\\linq \u0026 ef core\\labs\\lab3\\bll\\entitylist\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3225D638-2913-4DDC-9311-12EBAA02016F}|BLL\\BLL.csproj|solutionrelative:bll\\entitylist\\departments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3225D638-2913-4DDC-9311-12EBAA02016F}|BLL\\BLL.csproj|d:\\college\\skills\\full stack\\iti\\linq \u0026 ef core\\labs\\lab3\\bll\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3225D638-2913-4DDC-9311-12EBAA02016F}|BLL\\BLL.csproj|solutionrelative:bll\\entity\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3225D638-2913-4DDC-9311-12EBAA02016F}|BLL\\BLL.csproj|d:\\college\\skills\\full stack\\iti\\linq \u0026 ef core\\labs\\lab3\\bll\\entity\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3225D638-2913-4DDC-9311-12EBAA02016F}|BLL\\BLL.csproj|solutionrelative:bll\\entity\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D518ACAF-56AC-4F93-8993-21818CB3AB64}|DAL\\DAL.csproj|d:\\college\\skills\\full stack\\iti\\linq \u0026 ef core\\labs\\lab3\\dal\\dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -58,58 +58,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Students.cs",
-              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Linq \u0026 EF Core\\labs\\lab3\\BLL\\EntityList\\Students.cs",
-              "RelativeDocumentMoniker": "BLL\\EntityList\\Students.cs",
-              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Linq \u0026 EF Core\\labs\\lab3\\BLL\\EntityList\\Students.cs",
-              "RelativeToolTip": "BLL\\EntityList\\Students.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T13:24:15.397Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "DbManager.cs",
               "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Linq \u0026 EF Core\\labs\\lab3\\DAL\\DbManager.cs",
               "RelativeDocumentMoniker": "DAL\\DbManager.cs",
               "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Linq \u0026 EF Core\\labs\\lab3\\DAL\\DbManager.cs",
               "RelativeToolTip": "DAL\\DbManager.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAwwCIAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowCIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T12:04:50.971Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Linq \u0026 EF Core\\labs\\lab3\\lab3.1\\Form1.cs",
-              "RelativeDocumentMoniker": "lab3.1\\Form1.cs",
-              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Linq \u0026 EF Core\\labs\\lab3\\lab3.1\\Form1.cs [Design]",
-              "RelativeToolTip": "lab3.1\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T10:30:03.643Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Linq \u0026 EF Core\\labs\\lab3\\lab3.1\\Form1.cs",
               "RelativeDocumentMoniker": "lab3.1\\Form1.cs",
               "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Linq \u0026 EF Core\\labs\\lab3\\lab3.1\\Form1.cs",
               "RelativeToolTip": "lab3.1\\Form1.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAiwG4AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T10:57:02.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Departments.cs",
               "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Linq \u0026 EF Core\\labs\\lab3\\BLL\\EntityList\\Departments.cs",
               "RelativeDocumentMoniker": "BLL\\EntityList\\Departments.cs",
@@ -122,20 +97,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "StudentManager.cs",
               "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Linq \u0026 EF Core\\labs\\lab3\\BLL\\EntityManagers\\StudentManager.cs",
               "RelativeDocumentMoniker": "BLL\\EntityManagers\\StudentManager.cs",
               "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Linq \u0026 EF Core\\labs\\lab3\\BLL\\EntityManagers\\StudentManager.cs",
               "RelativeToolTip": "BLL\\EntityManagers\\StudentManager.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAIAxwB0AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwB0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T13:29:59.88Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "DepartmentManager.cs",
               "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Linq \u0026 EF Core\\labs\\lab3\\BLL\\EntityManagers\\DepartmentManager.cs",
               "RelativeDocumentMoniker": "BLL\\EntityManagers\\DepartmentManager.cs",
@@ -143,25 +118,11 @@
               "RelativeToolTip": "BLL\\EntityManagers\\DepartmentManager.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T13:29:17.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T13:29:17.749Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Linq \u0026 EF Core\\labs\\lab3\\BLL\\Entity\\Student.cs",
-              "RelativeDocumentMoniker": "BLL\\Entity\\Student.cs",
-              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Linq \u0026 EF Core\\labs\\lab3\\BLL\\Entity\\Student.cs",
-              "RelativeToolTip": "BLL\\Entity\\Student.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T13:22:21.976Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 3,
               "Title": "Department.cs",
               "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Linq \u0026 EF Core\\labs\\lab3\\BLL\\Entity\\Department.cs",
               "RelativeDocumentMoniker": "BLL\\Entity\\Department.cs",
@@ -174,16 +135,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Students.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Linq \u0026 EF Core\\labs\\lab3\\BLL\\EntityList\\Students.cs",
+              "RelativeDocumentMoniker": "BLL\\EntityList\\Students.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Linq \u0026 EF Core\\labs\\lab3\\BLL\\EntityList\\Students.cs",
+              "RelativeToolTip": "BLL\\EntityList\\Students.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:24:15.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Linq \u0026 EF Core\\labs\\lab3\\lab3.1\\Form1.cs",
+              "RelativeDocumentMoniker": "lab3.1\\Form1.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Linq \u0026 EF Core\\labs\\lab3\\lab3.1\\Form1.cs [Design]",
+              "RelativeToolTip": "lab3.1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T10:30:03.643Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Linq \u0026 EF Core\\labs\\lab3\\BLL\\Entity\\Student.cs",
+              "RelativeDocumentMoniker": "BLL\\Entity\\Student.cs",
+              "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Linq \u0026 EF Core\\labs\\lab3\\BLL\\Entity\\Student.cs",
+              "RelativeToolTip": "BLL\\Entity\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:22:21.976Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "DAL",
+              "Title": "DAL.csproj",
               "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Linq \u0026 EF Core\\labs\\lab3\\DAL\\DAL.csproj",
               "RelativeDocumentMoniker": "DAL\\DAL.csproj",
               "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Linq \u0026 EF Core\\labs\\lab3\\DAL\\DAL.csproj",
               "RelativeToolTip": "DAL\\DAL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-02T12:52:47.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T12:52:47.853Z"
             }
           ]
         }

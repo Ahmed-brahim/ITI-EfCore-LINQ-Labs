@@ -66,8 +66,7 @@
               "RelativeToolTip": "BLL\\EntityList\\Students.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T13:24:15.397Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T13:24:15.397Z"
             },
             {
               "$type": "Document",
@@ -79,8 +78,7 @@
               "RelativeToolTip": "DAL\\DbManager.cs",
               "ViewState": "AgIAABgAAAAAAAAAAAAwwCIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T12:04:50.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T12:04:50.971Z"
             },
             {
               "$type": "Document",
@@ -102,7 +100,7 @@
               "RelativeDocumentMoniker": "lab3.1\\Form1.cs",
               "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Linq \u0026 EF Core\\labs\\lab3\\lab3.1\\Form1.cs",
               "RelativeToolTip": "lab3.1\\Form1.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAiwG4AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAG4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T10:57:02.642Z",
               "EditorCaption": ""
@@ -117,8 +115,7 @@
               "RelativeToolTip": "BLL\\EntityList\\Departments.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T13:24:26.52Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T13:24:26.52Z"
             },
             {
               "$type": "Document",
@@ -130,8 +127,7 @@
               "RelativeToolTip": "BLL\\EntityManagers\\StudentManager.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAIAxwB0AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T13:29:59.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T13:29:59.88Z"
             },
             {
               "$type": "Document",
@@ -143,8 +139,7 @@
               "RelativeToolTip": "BLL\\EntityManagers\\DepartmentManager.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T13:29:17.749Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T13:29:17.749Z"
             },
             {
               "$type": "Document",
@@ -156,8 +151,7 @@
               "RelativeToolTip": "BLL\\Entity\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T13:22:21.976Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T13:22:21.976Z"
             },
             {
               "$type": "Document",
@@ -169,21 +163,19 @@
               "RelativeToolTip": "BLL\\Entity\\Department.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T13:22:41.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T13:22:41.318Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "DAL",
+              "Title": "DAL.csproj",
               "DocumentMoniker": "D:\\College\\skills\\Full Stack\\iti\\Linq \u0026 EF Core\\labs\\lab3\\DAL\\DAL.csproj",
               "RelativeDocumentMoniker": "DAL\\DAL.csproj",
               "ToolTip": "D:\\College\\skills\\Full Stack\\iti\\Linq \u0026 EF Core\\labs\\lab3\\DAL\\DAL.csproj",
               "RelativeToolTip": "DAL\\DAL.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-02T12:52:47.853Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-02T12:52:47.853Z"
             }
           ]
         }
