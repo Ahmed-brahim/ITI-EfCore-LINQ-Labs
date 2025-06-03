@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab2.1(ADO.net-connectedMode)", "lab2.1(ADO.net-connectedMode)\lab2.1(ADO.net-connectedMode).csproj", "{295846A8-A03B-414A-B4B2-5A27FA551785}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab2.2(ADO.Net-DataAdapterMode)", "lab2.2(ADO.Net-DataAdapterMode)\lab2.2(ADO.Net-DataAdapterMode).csproj", "{02186E06-D9DD-4345-885B-2E312BF0AA82}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{295846A8-A03B-414A-B4B2-5A27FA551785}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{295846A8-A03B-414A-B4B2-5A27FA551785}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{295846A8-A03B-414A-B4B2-5A27FA551785}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{295846A8-A03B-414A-B4B2-5A27FA551785}.Release|Any CPU.Build.0 = Release|Any CPU
+		{02186E06-D9DD-4345-885B-2E312BF0AA82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02186E06-D9DD-4345-885B-2E312BF0AA82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02186E06-D9DD-4345-885B-2E312BF0AA82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02186E06-D9DD-4345-885B-2E312BF0AA82}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B13DECB-3ECB-4074-AC4C-CF102FA3D19D}
+	EndGlobalSection
+EndGlobal

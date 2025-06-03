@@ -1,0 +1,14 @@
+D:\College\skills\Full Stack\iti\Linq\labs\lab1\lab1.1\bin\Debug\net9.0\lab1.1.exe
+D:\College\skills\Full Stack\iti\Linq\labs\lab1\lab1.1\bin\Debug\net9.0\lab1.1.deps.json
+D:\College\skills\Full Stack\iti\Linq\labs\lab1\lab1.1\bin\Debug\net9.0\lab1.1.runtimeconfig.json
+D:\College\skills\Full Stack\iti\Linq\labs\lab1\lab1.1\bin\Debug\net9.0\lab1.1.dll
+D:\College\skills\Full Stack\iti\Linq\labs\lab1\lab1.1\bin\Debug\net9.0\lab1.1.pdb
+D:\College\skills\Full Stack\iti\Linq\labs\lab1\lab1.1\obj\Debug\net9.0\lab1.1.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\skills\Full Stack\iti\Linq\labs\lab1\lab1.1\obj\Debug\net9.0\lab1.1.AssemblyInfoInputs.cache
+D:\College\skills\Full Stack\iti\Linq\labs\lab1\lab1.1\obj\Debug\net9.0\lab1.1.AssemblyInfo.cs
+D:\College\skills\Full Stack\iti\Linq\labs\lab1\lab1.1\obj\Debug\net9.0\lab1.1.csproj.CoreCompileInputs.cache
+D:\College\skills\Full Stack\iti\Linq\labs\lab1\lab1.1\obj\Debug\net9.0\lab1.1.dll
+D:\College\skills\Full Stack\iti\Linq\labs\lab1\lab1.1\obj\Debug\net9.0\refint\lab1.1.dll
+D:\College\skills\Full Stack\iti\Linq\labs\lab1\lab1.1\obj\Debug\net9.0\lab1.1.pdb
+D:\College\skills\Full Stack\iti\Linq\labs\lab1\lab1.1\obj\Debug\net9.0\lab1.1.genruntimeconfig.cache
+D:\College\skills\Full Stack\iti\Linq\labs\lab1\lab1.1\obj\Debug\net9.0\ref\lab1.1.dll

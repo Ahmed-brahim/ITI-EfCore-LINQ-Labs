@@ -1,0 +1,15 @@
+D:\College\skills\Full Stack\iti\Linq & EF Core\labs\lab3\BLL\bin\Debug\net9.0\BLL.deps.json
+D:\College\skills\Full Stack\iti\Linq & EF Core\labs\lab3\BLL\bin\Debug\net9.0\BLL.dll
+D:\College\skills\Full Stack\iti\Linq & EF Core\labs\lab3\BLL\bin\Debug\net9.0\BLL.pdb
+D:\College\skills\Full Stack\iti\Linq & EF Core\labs\lab3\BLL\bin\Debug\net9.0\DAL.dll
+D:\College\skills\Full Stack\iti\Linq & EF Core\labs\lab3\BLL\bin\Debug\net9.0\DAL.pdb
+D:\College\skills\Full Stack\iti\Linq & EF Core\labs\lab3\BLL\obj\Debug\net9.0\BLL.csproj.AssemblyReference.cache
+D:\College\skills\Full Stack\iti\Linq & EF Core\labs\lab3\BLL\obj\Debug\net9.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\skills\Full Stack\iti\Linq & EF Core\labs\lab3\BLL\obj\Debug\net9.0\BLL.AssemblyInfoInputs.cache
+D:\College\skills\Full Stack\iti\Linq & EF Core\labs\lab3\BLL\obj\Debug\net9.0\BLL.AssemblyInfo.cs
+D:\College\skills\Full Stack\iti\Linq & EF Core\labs\lab3\BLL\obj\Debug\net9.0\BLL.csproj.CoreCompileInputs.cache
+D:\College\skills\Full Stack\iti\Linq & EF Core\labs\lab3\BLL\obj\Debug\net9.0\BLL.csproj.Up2Date
+D:\College\skills\Full Stack\iti\Linq & EF Core\labs\lab3\BLL\obj\Debug\net9.0\BLL.dll
+D:\College\skills\Full Stack\iti\Linq & EF Core\labs\lab3\BLL\obj\Debug\net9.0\refint\BLL.dll
+D:\College\skills\Full Stack\iti\Linq & EF Core\labs\lab3\BLL\obj\Debug\net9.0\BLL.pdb
+D:\College\skills\Full Stack\iti\Linq & EF Core\labs\lab3\BLL\obj\Debug\net9.0\ref\BLL.dll

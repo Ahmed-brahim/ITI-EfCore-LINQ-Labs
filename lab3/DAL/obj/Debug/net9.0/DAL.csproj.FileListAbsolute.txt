@@ -1,0 +1,12 @@
+D:\College\skills\Full Stack\iti\Linq & EF Core\labs\lab3\DAL\bin\Debug\net9.0\DAL.deps.json
+D:\College\skills\Full Stack\iti\Linq & EF Core\labs\lab3\DAL\bin\Debug\net9.0\DAL.dll
+D:\College\skills\Full Stack\iti\Linq & EF Core\labs\lab3\DAL\bin\Debug\net9.0\DAL.pdb
+D:\College\skills\Full Stack\iti\Linq & EF Core\labs\lab3\DAL\obj\Debug\net9.0\DAL.csproj.AssemblyReference.cache
+D:\College\skills\Full Stack\iti\Linq & EF Core\labs\lab3\DAL\obj\Debug\net9.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\skills\Full Stack\iti\Linq & EF Core\labs\lab3\DAL\obj\Debug\net9.0\DAL.AssemblyInfoInputs.cache
+D:\College\skills\Full Stack\iti\Linq & EF Core\labs\lab3\DAL\obj\Debug\net9.0\DAL.AssemblyInfo.cs
+D:\College\skills\Full Stack\iti\Linq & EF Core\labs\lab3\DAL\obj\Debug\net9.0\DAL.csproj.CoreCompileInputs.cache
+D:\College\skills\Full Stack\iti\Linq & EF Core\labs\lab3\DAL\obj\Debug\net9.0\DAL.dll
+D:\College\skills\Full Stack\iti\Linq & EF Core\labs\lab3\DAL\obj\Debug\net9.0\refint\DAL.dll
+D:\College\skills\Full Stack\iti\Linq & EF Core\labs\lab3\DAL\obj\Debug\net9.0\DAL.pdb
+D:\College\skills\Full Stack\iti\Linq & EF Core\labs\lab3\DAL\obj\Debug\net9.0\ref\DAL.dll
